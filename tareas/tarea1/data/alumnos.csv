@@ -1,0 +1,21 @@
+id,nombre,carrera,sede,anio_ingreso,promedio,asistencia_pct,estado,fecha_inscripcion
+101,Carla,Ing. Informática,Los Ángeles,2021,5.47,80.3,regular,2025-03-27
+102,Pedro,Ing. Comercial,Chillán,2022,6.59,93.6,regular,2025-05-01
+103,Ignacio,Ing. Civil Industrial,Concepción,2022,5.16,79.5,regular,2025-06-24
+104,Fernanda,Ing. Civil Industrial,Concepción,2024,5.99,,regular,2025-05-16
+105,Javiera,Ing. Informática,Los Ángeles,2024,5.28,94.1,congelado,2025-06-13
+106,Felipe,Ing. Informática,Concepción,2024,5.05,94.3,regular,2025-03-03
+107,Camila,Ing. Informática,Concepción,2022,4.09,,regular,2025-06-11
+108,Gonzalo,Ing. Comercial,Talcahuano,2023,,88.4,congelado,2025-05-09
+109,Daniela,Ing. Civil Industrial,Los Ángeles,2022,4.49,61.6,regular,2025-05-11
+110,Tomás,Ing. Civil Industrial,Cañete,2024,,92.7,regular,2025-03-27
+111,Bárbara,Ing. Informática,Los Ángeles,2023,4.97,72.7,regular,2025-03-09
+112,Matías,Ing. Comercial,Cañete,2022,4.83,89.8,regular,2025-05-01
+113,Valentina,Ing. Comercial,Talcahuano,2023,4.06,75.9,regular,2025-04-06
+114,Pablo,Ing. Informática,Chillán,2021,4.52,85.3,regular,2025-06-05
+115,Isidora,Ing. Informática,Concepción,2024,5.56,68.2,congelado,2025-04-20
+116,Sebastián,Ing. Informática,Talcahuano,2023,5.41,79.2,regular,2025-06-14
+117,Antonia,Ing. Informática,Concepción,2023,5.42,81.4,regular,2025-04-13
+118,Ricardo,Ing. Informática,Chillán,2025,5.1,91.6,regular,2025-03-24
+119,Constanza,Ing. Informática,Chillán,2024,5.4,99.9,congelado,2025-05-18
+120,Diego,Ing. Informática,Talcahuano,2022,5.14,87.8,regular,2025-04-28

@@ -1,0 +1,78 @@
+id_alumno,asignatura,seccion,nota1,nota2,nota3,aprobacion
+101,Álgebra,3,4.02,3.99,5.79,1
+101,Gestión de Datos,1,4.2,4.14,3.15,0
+101,Cálculo I,1,6.91,4.64,3.13,1
+101,Estructuras de Datos,2,5.54,5.72,5.12,1
+102,Cálculo I,2,5.91,4.47,5.53,1
+102,Programación I,1,4.6,6.27,6.19,1
+102,Gestión de Datos,3,4.28,,3.16,0
+102,Estructuras de Datos,3,3.88,5.84,6.24,1
+103,Gestión de Datos,2,4.36,3.45,6.7,1
+103,Álgebra,1,5.78,3.91,3.7,1
+103,Estructuras de Datos,2,5.07,4.04,6.99,1
+104,Cálculo I,2,4.4,5.9,6.59,1
+104,Inglés I,2,6.12,5.57,3.34,1
+104,Programación I,1,5.68,5.32,4.49,1
+105,Estructuras de Datos,1,4.94,4.79,6.98,1
+105,Álgebra,3,3.07,4.98,3.72,0
+105,Inglés I,3,5.88,4.23,5.17,1
+105,Cálculo I,2,4.47,4.06,3.98,1
+105,Gestión de Datos,3,6.92,4.95,6.62,1
+106,Estructuras de Datos,3,6.46,3.92,5.0,1
+106,Cálculo I,2,6.07,3.17,6.98,1
+106,Álgebra,1,6.82,6.66,4.48,1
+106,Inglés I,3,6.81,4.32,5.21,1
+107,Cálculo I,2,4.54,6.4,4.27,1
+107,Gestión de Datos,2,5.23,6.74,5.78,1
+107,Álgebra,2,3.39,5.46,6.96,1
+107,Estructuras de Datos,1,4.02,4.18,4.29,1
+107,Programación I,2,3.55,5.84,5.21,1
+108,Gestión de Datos,1,6.65,5.05,5.01,1
+108,Inglés I,2,3.78,3.28,4.59,0
+108,Programación I,2,6.56,4.35,4.5,1
+108,Estructuras de Datos,2,4.75,5.69,4.31,1
+108,Álgebra,2,5.17,4.15,5.36,1
+109,Programación I,1,5.15,4.31,6.31,1
+109,Estructuras de Datos,2,4.83,,3.78,1
+109,Álgebra,1,5.16,5.55,5.9,1
+110,,2,4.6,4.73,5.98,1
+110,Programación I,1,3.1,6.85,6.34,1
+110,Álgebra,3,5.75,3.23,6.66,1
+110,Gestión de Datos,1,4.0,5.2,5.86,1
+111,Cálculo I,3,5.45,4.68,3.99,1
+111,Estructuras de Datos,1,6.03,3.06,3.46,1
+111,Inglés I,1,3.38,4.25,6.92,1
+112,Inglés I,1,4.74,4.59,5.46,1
+112,,3,6.55,4.04,3.06,1
+112,Programación I,3,5.01,6.43,5.63,1
+112,Álgebra,2,6.78,6.47,5.55,1
+113,Cálculo I,2,6.28,5.5,6.28,1
+113,Álgebra,2,3.83,4.1,3.86,0
+113,Estructuras de Datos,1,3.07,3.38,5.73,1
+113,Gestión de Datos,2,5.62,4.54,5.73,1
+113,Programación I,1,6.26,4.13,3.47,1
+114,Cálculo I,3,6.87,5.19,4.69,1
+114,Estructuras de Datos,3,6.96,4.65,4.49,1
+114,Inglés I,1,5.32,6.47,5.25,1
+114,Programación I,2,5.72,5.96,3.95,1
+115,Álgebra,1,4.19,3.4,3.21,0
+115,Cálculo I,2,6.62,3.37,4.28,1
+115,Estructuras de Datos,1,5.71,,4.97,1
+116,Cálculo I,1,6.01,6.17,6.16,1
+116,Gestión de Datos,2,6.72,6.9,6.98,1
+116,Estructuras de Datos,2,4.77,6.55,4.4,1
+117,Gestión de Datos,2,6.47,6.35,4.7,1
+117,Álgebra,1,4.59,6.57,3.59,1
+117,Estructuras de Datos,1,3.34,6.95,4.5,1
+117,Cálculo I,1,6.52,3.95,6.63,1
+117,Programación I,1,6.01,4.51,3.33,1
+118,Inglés I,2,4.74,4.01,4.62,1
+118,Programación I,1,3.23,3.48,3.47,0
+118,Estructuras de Datos,1,5.98,5.72,3.95,1
+118,Gestión de Datos,2,4.5,4.14,6.47,1
+119,Álgebra,1,5.22,4.29,3.17,1
+119,Gestión de Datos,1,6.97,3.3,5.22,1
+119,Programación I,3,5.09,5.52,5.78,1
+120,Cálculo I,2,6.66,6.83,3.23,1
+120,Programación I,2,4.82,5.48,4.11,1
+120,Estructuras de Datos,1,4.55,3.92,4.06,1
