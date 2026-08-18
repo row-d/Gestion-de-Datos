@@ -1,7 +1,7 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
-    "ghcr.io/devcontainers-extra/features/uv:1": {},
+    "ghcr.io/devcontainer-community/devcontainer-features/astral.sh-uv:1": {},
     "ghcr.io/devcontainers/features/common-utils:2": {}
   }
 }
